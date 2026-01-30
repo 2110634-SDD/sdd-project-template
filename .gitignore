@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+bin/
+out/
+build/
+dist/
+target/
+node_modules/
+*.class
+*.pyc
+*.log
